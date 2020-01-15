@@ -1,0 +1,12 @@
+{
+  "name": "Klappir-Learn",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "dependencies": {
+    "docz": "^2.0.0-rc.67",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
