@@ -1,20 +1,7 @@
 # Klappir Learn
 
-## Install
-```npm add docz@next react react-dom```
-
-## Development
-
-```npm run docz:dev```
-
-## Production
-
-You will need to build for production for your new code to work on github pages
-
-```npm run docz:build```
-
 ## Using
-### Create new files in Documents and save as mdx
+### Create new files in folder Documents and save as md or mdx
 
 ```
 ---
