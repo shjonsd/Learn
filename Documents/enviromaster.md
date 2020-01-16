@@ -18,4 +18,4 @@ sdfsdfjlæjsadfsdjfælj
 ## SeaMaster
 
 
-![Superhero](https://klappir-static.s3.amazonaws.com/img/drawings/Ofurhetja.jpg)
+![Superhero](https://drive.google.com/open?id=1VYM6juZhiiBoldGn6Rk_G0EHXupmABov)
