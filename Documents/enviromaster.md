@@ -1,6 +1,6 @@
 ---
 name: Yfirflokkar
-route: /gimp
+route: /enviromaster
 menu: EnviroMaster
 ---
 
