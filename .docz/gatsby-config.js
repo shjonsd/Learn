@@ -19,6 +19,7 @@ const config = {
       resolve: 'gatsby-theme-docz',
       options: {
         themeConfig: {
+          fontFamily: 'Inter',
           colors: { header: { bg: '#3a506b', color: '#FFF', height: '62px' } },
         },
         themesDir: 'src',

@@ -13,12 +13,17 @@
     "repository": null,
     "native": false,
     "themeConfig": {
+      "fontFamily": "Inter",
       "colors": {
         "header": {
           "bg": "#3a506b",
           "color": "#FFF",
           "height": "62px"
         }
+      },
+      "fonts": {
+        "body": "Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "heading": "Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif"
       }
     },
     "separator": "-",
@@ -46,29 +51,14 @@
             "value": "Klappir Learn"
           },
           {
-            "slug": "install",
-            "depth": 2,
-            "value": "Install"
-          },
-          {
-            "slug": "development",
-            "depth": 2,
-            "value": "Development"
-          },
-          {
-            "slug": "production",
-            "depth": 2,
-            "value": "Production"
-          },
-          {
             "slug": "using",
             "depth": 2,
             "value": "Using"
           },
           {
-            "slug": "create-new-files-in-documents-and-save-as-mdx",
+            "slug": "create-new-files-in-folder-documents-and-save-as-md-or-mdx",
             "depth": 3,
-            "value": "Create new files in Documents and save as mdx"
+            "value": "Create new files in folder Documents and save as md or mdx"
           },
           {
             "slug": "markdown-cheatsheet",
@@ -94,6 +84,41 @@
             "slug": "online",
             "depth": 3,
             "value": "Online"
+          }
+        ]
+      }
+    },
+    {
+      "key": "Documents/enviromaster.md",
+      "value": {
+        "name": "Yfirflokkar",
+        "route": "/enviromaster",
+        "menu": "EnviroMaster",
+        "id": "41ccc078cd19fa8fae61e61ecaef9122",
+        "filepath": "Documents/enviromaster.md",
+        "fullpath": "/Users/hjalti/klappir_learn/Documents/enviromaster.md",
+        "link": "",
+        "slug": "documents-enviromaster",
+        "headings": [
+          {
+            "slug": "þetta-er-nýr-yfirflokkur",
+            "depth": 1,
+            "value": "Þetta er nýr yfirflokkur"
+          },
+          {
+            "slug": "enviromaster",
+            "depth": 2,
+            "value": "EnviroMaster"
+          },
+          {
+            "slug": "hlaða-gögnum",
+            "depth": 3,
+            "value": "hlaða gögnum"
+          },
+          {
+            "slug": "seamaster",
+            "depth": 2,
+            "value": "SeaMaster"
           }
         ]
       }
