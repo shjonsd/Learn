@@ -1,0 +1,26 @@
+@font-face{
+  font-family: 'Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif'
+}
+
+.header{
+  height: 60px;
+  background: linear-gradient(180deg, #004157 0%, #003647 100%);
+  display: flex;
+justify-content: space-between;
+}
+
+.logo{
+  padding: 15px;
+  float: left;
+  width: 197px;
+}
+
+.links{
+  padding: 15px;
+
+}
+
+.headerLink{
+  color: #c4d1d6;
+  padding-left: 10px;
+}

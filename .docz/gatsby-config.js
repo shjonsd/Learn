@@ -19,8 +19,12 @@ const config = {
       resolve: 'gatsby-theme-docz',
       options: {
         themeConfig: {
-          fontFamily: 'Inter',
-          colors: { header: { bg: '#3a506b', color: '#FFF', height: '62px' } },
+          fonts: {
+            body:
+              'Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif',
+            heading:
+              'Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif',
+          },
         },
         themesDir: 'src',
         docgenConfig: {},
@@ -53,7 +57,7 @@ const config = {
         title: 'Klappir Learn',
         description: 'Documentation for Klappir platforms',
         host: 'localhost',
-        port: 3002,
+        port: 3000,
         p: 3000,
         separator: '-',
         paths: {

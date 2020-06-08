@@ -13,14 +13,6 @@
     "repository": null,
     "native": false,
     "themeConfig": {
-      "fontFamily": "Inter",
-      "colors": {
-        "header": {
-          "bg": "#3a506b",
-          "color": "#FFF",
-          "height": "62px"
-        }
-      },
       "fonts": {
         "body": "Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif",
         "heading": "Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif"
@@ -171,13 +163,24 @@
   ],
   "props": [
     {
-      "key": "src/gatsby-theme-docz/components/Logo/index.js",
+      "key": "src/gatsby-theme-docz/components/Header/index.js",
       "value": [
         {
           "description": "",
-          "displayName": "Logo",
+          "displayName": "Header",
           "methods": [],
-          "actualName": "Logo"
+          "actualName": "Header"
+        }
+      ]
+    },
+    {
+      "key": ".docz/src/gatsby-theme-docz/components/Header/index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Header",
+          "methods": [],
+          "actualName": "Header"
         }
       ]
     }
