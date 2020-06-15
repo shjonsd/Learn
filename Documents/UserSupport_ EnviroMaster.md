@@ -1,5 +1,5 @@
 ---
-name: Innngangur
+name: Introduction
 route: /enviromaster
 menu: EnviroMaster
 ---
