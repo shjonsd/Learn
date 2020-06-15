@@ -1,8 +1,8 @@
 export default {
   dest: "/docs",
-  ignore: ["readme.md"],
+  ignore: ["README.md"],
   description: "Documentation for Klappir platforms",
-  menu: [{ name: "Klappir" }, { name: "Platforms" }],
+  menu: [{ name: "Klappir" }],
   themeConfig: {
     fonts: {
       body: 'Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif',
