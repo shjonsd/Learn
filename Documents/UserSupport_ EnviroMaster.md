@@ -4,7 +4,7 @@ route: /enviromaster
 menu: EnviroMaster
 ---
 
-#Enviromaster
+# Enviromaster
 
 Welcome to Klappir EnviroMaster!
 
@@ -12,13 +12,13 @@ We are very happy to have you join the ever-growing group of our happy customers
 
 Here you can find all the necessary information about how to get Klappir EnviroMaster up and running both quick and easy. 
 
-##What Is Klappir EnviroMaster?
+## What Is Klappir EnviroMaster?
 
 Klappir EnviroMaster is our flagship sustainability solution, operated on our sustainability platform. It is designed for businesses, organisations, and municipalities that want to create strong infrastructure for environmental accounting and deliver reliable ESG reporting.
 
 EnviroMaster is a cloud-based digital solution that facilitates sustainability management by largely automating the process. It is used by organisations, municipalities, and businesses across all sectors. As the solution is cloud-based, there is no need for any installation process. You can start using it right away.
 
-##Why Should I Be Using Klappir EnviroMaster?
+## Why Should I Be Using Klappir EnviroMaster?
 
 If you take environmental accounting seriously, you should be using the Klappir Platform. But of course we'll tell you that––we've put countless hours into creating the very best solution possible!
 
@@ -26,7 +26,7 @@ Objectively, though, it is fair to say that based on the experience of working w
 
 This means that you can focus on your most important challenge––which is maximising the sustainability of your business.
 
-##How Do I Measure My Sustainability?
+## How Do I Measure My Sustainability?
 
 Basically, you need to have the reliable environmental data spanning your entire operation. 
 
@@ -38,7 +38,7 @@ Once that is done, organizing all the data and turning it into legible informati
 
 Which now leads us to The Klappir Dashboard. 
 
-#The Klappir Dashboard
+# The Klappir Dashboard
 The Klappir Dashboard is where you have an overview of your total environmental footprint––that is, the sustainability level of your operation.
  
 When all datasources have been activated, or all the data has been manually imported, the Klappir Dashboard will display your energy intensity in visually-pleasing, and easy to understand, bar charts. This gives you an unprecedented overview of the energy intensity of the whole operation. Here you will have bar charts for fuel, electricity, waste, hot and cold water, gaseous substances, and heating. We also calculate the CO2 equivalents of the emissions. 
