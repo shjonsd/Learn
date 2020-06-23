@@ -6,7 +6,7 @@ name: Introduction
 
 
 
-# Enviromaster
+# EnviroMaster
 
 Welcome to Klappir EnviroMaster!
 
