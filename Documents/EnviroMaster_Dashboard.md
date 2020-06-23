@@ -4,18 +4,21 @@ route: /enviromaster
 name: Introduction
 ---
 
-#The Klappir Dashboard
+# The Klappir Dashboard
+
 EnviroMaster collects all your environmental data and presents it to you through a user-friendly interface on the Klappir Dashboard. Here is where you have a comphrehensive overview of your total environmental footprint – that is, the overall sustainability of your operation. This unprecedented overview of your energy intensity should cover your whole operation. Here you have bar charts for fuel, electricity, waste, hot and cold water, gaseous substances, and heating. Based on all this data, we are then able to calculate the CO2 equivalents of your total emissions. 
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/EnviroMasterDashboard.png)
 
 
-##tCO₂e - carbon equivalents
+## tCO₂e - carbon equivalents
+
 Carbon dioxide equivalents, also written as tCO₂e, is a measure used to compare the emissions from various greenhouse gases based upon their global warming potential. To give an example, metan (CH₄) equals 28 tCO₂e and nitrous oxide (N₂O) equals 265 28 tCO₂e.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Carbon+equivalents.png)
 
-###Overview
+### Overview
+
 The Klappir methodology is based on the three scopes defined in the Greenhouse Gas Protocol. 
 
 <b>Scope 1</b>: All direct emissions stemming from the activities of an organisation.
