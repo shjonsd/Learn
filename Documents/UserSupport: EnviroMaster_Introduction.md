@@ -26,6 +26,8 @@ Klappir EnviroMaster is currently used by organisations, municipalities, and bus
 
 ## How Do I Measure My Sustainability?
  
-First, you need a complete list of your service providers, specifically your utilities. Who supplies the company with electricity? What about the fuel for the car fleet? Once you have made that list, the next step is to determine how to obtain the necessary data. (*In Iceland, we do this by establishing a direct connection with service providers. It will depend on your region how you can obtain the necessary data streams and/or the required data.)
+First, you need a complete list of your service providers, specifically your utilities. Who supplies the company with electricity? What about the fuel for the car fleet? Once you have made that list, the next step is to determine how to obtain the necessary data.*
 
-Once you have a complete list of utilities and services, organizing the data and turning it into legible information might seem overwhelming. But that's exactly why we created the Klappir Platform: to not only make such data processing doable, but feasible and easy. So, let's take a look at The Klappir Dashboard. 
+Once you have a complete list of utilities and services, organizing the data and turning it into legible information might seem overwhelming. But that's exactly why we created the Klappir Platform: to not only make such data processing doable, but feasible and easy. So, let's take a look at The Klappir Dashboard.
+
+*In Iceland, we do this by establishing a direct connection with service providers and utility companies. It will depend on your region how you can obtain the necessary data streams and/or the required data.
