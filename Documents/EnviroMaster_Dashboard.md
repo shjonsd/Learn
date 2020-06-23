@@ -1,6 +1,6 @@
 ---
 menu: EnviroMaster
-route: /enviromaster
+route: /enviromaster_dashboard
 name: The Klappir Dashboard
 ---
 
