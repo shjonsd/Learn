@@ -242,7 +242,7 @@ The Analytics tools then give you a chance to delve deeper into the cold water d
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/GaseousSubstancesDetails.png)
 
-###Analytics
+### Analytics
 
 The Analytics tools give you a chance to delve deeper into the gas data.
 
