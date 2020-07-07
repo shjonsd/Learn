@@ -53,7 +53,7 @@ View your fuel intensity for individual years, single months or yearly quarters.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelDetails.png)
 
-This is a great tool for keeping track of how your goals for reducing your footprint are going and helps you spot opportunities for improvement.
+This is a great tool for keeping track of how your goals for reducing your footprint are going and spot opportunities for improvement.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/kona_med_tolvu_MINNI.png)
 
