@@ -5,9 +5,6 @@
     "menu": [
       {
         "name": "Klappir"
-      },
-      {
-        "name": "Platforms"
       }
     ],
     "repository": null,
@@ -21,96 +18,211 @@
     "separator": "-",
     "dest": "/docs",
     "ignore": [
-      "readme.md"
+      "README.md"
     ]
   },
   "entries": [
     {
-      "key": "README.md",
+      "key": "Documents/EnviroMaster_Dashboard.md",
       "value": {
-        "id": "04c6e90faac2675aa89e2176d2eec7d8",
-        "filepath": "README.md",
-        "fullpath": "/Users/hjalti/klappir_learn/README.md",
+        "menu": "EnviroMaster",
+        "route": "/enviromaster_dashboard",
+        "name": "The EnviroMaster Dashboard",
+        "id": "37e99dc5f0702c75075d23cbf18f06af",
+        "filepath": "Documents/EnviroMaster_Dashboard.md",
+        "fullpath": "/Users/hjalti/klappir_learn/Documents/EnviroMaster_Dashboard.md",
         "link": "",
-        "slug": "readme",
-        "route": "/readme",
-        "name": "Readme",
-        "menu": "",
+        "slug": "documents-enviro-master-dashboard",
         "headings": [
           {
-            "slug": "klappir-learn",
+            "slug": "the-enviromaster-dashboard",
             "depth": 1,
-            "value": "Klappir Learn"
+            "value": "The EnviroMaster Dashboard"
           },
           {
-            "slug": "using",
+            "slug": "tco₂e---what-are-carbon-equivalents",
             "depth": 2,
-            "value": "Using"
+            "value": "tCO₂e - What are carbon equivalents?"
           },
           {
-            "slug": "create-new-files-in-folder-documents-and-save-as-md-or-mdx",
+            "slug": "details",
             "depth": 3,
-            "value": "Create new files in folder Documents and save as md or mdx"
+            "value": "Details"
           },
           {
-            "slug": "markdown-cheatsheet",
+            "slug": "analytics",
+            "depth": 3,
+            "value": "Analytics"
+          },
+          {
+            "slug": "fuel",
             "depth": 2,
-            "value": "Markdown Cheatsheet"
+            "value": "Fuel"
           },
           {
-            "slug": "markdown-clients",
+            "slug": "details-1",
+            "depth": 3,
+            "value": "Details"
+          },
+          {
+            "slug": "analytics-1",
+            "depth": 3,
+            "value": "Analytics"
+          },
+          {
+            "slug": "electricity",
             "depth": 2,
-            "value": "Markdown clients"
+            "value": "Electricity"
           },
           {
-            "slug": "for-pros-mac",
+            "slug": "details-2",
             "depth": 3,
-            "value": "For pros (mac)"
+            "value": "Details"
           },
           {
-            "slug": "for-semi-pros-windows",
+            "slug": "analytics-2",
             "depth": 3,
-            "value": "For semi pros (windows)"
+            "value": "Analytics"
           },
           {
-            "slug": "online",
+            "slug": "waste",
+            "depth": 2,
+            "value": "Waste"
+          },
+          {
+            "slug": "details-3",
             "depth": 3,
-            "value": "Online"
+            "value": "Details"
+          },
+          {
+            "slug": "analytics-3",
+            "depth": 3,
+            "value": "Analytics"
+          },
+          {
+            "slug": "hot-water",
+            "depth": 2,
+            "value": "Hot Water"
+          },
+          {
+            "slug": "analytics-4",
+            "depth": 3,
+            "value": "Analytics"
+          },
+          {
+            "slug": "cold-water",
+            "depth": 2,
+            "value": "Cold Water"
+          },
+          {
+            "slug": "analytics-5",
+            "depth": 3,
+            "value": "Analytics"
+          },
+          {
+            "slug": "gaseous-substances",
+            "depth": 2,
+            "value": "Gaseous substances"
+          },
+          {
+            "slug": "details-4",
+            "depth": 3,
+            "value": "Details"
+          },
+          {
+            "slug": "analytics-6",
+            "depth": 3,
+            "value": "Analytics"
+          },
+          {
+            "slug": "heating",
+            "depth": 2,
+            "value": "Heating"
+          },
+          {
+            "slug": "details-5",
+            "depth": 3,
+            "value": "Details"
           }
         ]
       }
     },
     {
-      "key": "Documents/enviromaster.md",
+      "key": "Documents/ThePlatform.md",
       "value": {
-        "name": "Yfirflokkar",
-        "route": "/enviromaster",
-        "menu": "EnviroMaster",
-        "id": "41ccc078cd19fa8fae61e61ecaef9122",
-        "filepath": "Documents/enviromaster.md",
-        "fullpath": "/Users/hjalti/klappir_learn/Documents/enviromaster.md",
+        "menu": "The Klappir Platform",
+        "route": "/the_klappir_platform",
+        "name": "The Klappir Platform",
+        "id": "c8db8c02808b57ed4460b1c4f4b71ea5",
+        "filepath": "Documents/ThePlatform.md",
+        "fullpath": "/Users/hjalti/klappir_learn/Documents/ThePlatform.md",
         "link": "",
-        "slug": "documents-enviromaster",
+        "slug": "documents-the-platform",
         "headings": [
           {
-            "slug": "þetta-er-nýr-yfirflokkur",
+            "slug": "the-klappir-platform",
             "depth": 1,
-            "value": "Þetta er nýr yfirflokkur"
+            "value": "The Klappir Platform"
           },
           {
-            "slug": "enviromaster",
+            "slug": "sustainability-management-on-the-klappir-platform",
             "depth": 2,
+            "value": "Sustainability Management on the Klappir Platform"
+          },
+          {
+            "slug": "the-klappir-methodology",
+            "depth": 2,
+            "value": "The Klappir Methodology"
+          },
+          {
+            "slug": "the-greenhouse-gas-protocol",
+            "depth": 3,
+            "value": "The Greenhouse Gas Protocol"
+          },
+          {
+            "slug": "the-paris-climate-agreement",
+            "depth": 3,
+            "value": "The Paris Climate Agreement"
+          },
+          {
+            "slug": "the-un-sustainable-development-goals",
+            "depth": 3,
+            "value": "The UN Sustainable Development Goals"
+          }
+        ]
+      }
+    },
+    {
+      "key": "Documents/UserSupport_EnviroMaster_Introduction.md",
+      "value": {
+        "menu": "EnviroMaster",
+        "route": "/enviromaster",
+        "name": "Introduction",
+        "id": "9c640f67c539ab17cac742dfba4c0873",
+        "filepath": "Documents/UserSupport_EnviroMaster_Introduction.md",
+        "fullpath": "/Users/hjalti/klappir_learn/Documents/UserSupport_EnviroMaster_Introduction.md",
+        "link": "",
+        "slug": "documents-user-support-enviro-master-introduction",
+        "headings": [
+          {
+            "slug": "enviromaster",
+            "depth": 1,
             "value": "EnviroMaster"
           },
           {
-            "slug": "hlaða-gögnum",
-            "depth": 3,
-            "value": "hlaða gögnum"
+            "slug": "what-is-klappir-enviromaster",
+            "depth": 2,
+            "value": "What Is Klappir EnviroMaster?"
           },
           {
-            "slug": "seamaster",
+            "slug": "why-should-i-use-klappir-enviromaster",
             "depth": 2,
-            "value": "SeaMaster"
+            "value": "Why Should I Use Klappir EnviroMaster?"
+          },
+          {
+            "slug": "how-do-i-measure-my-sustainability",
+            "depth": 2,
+            "value": "How Do I Measure My Sustainability?"
           }
         ]
       }
@@ -134,47 +246,11 @@
           }
         ]
       }
-    },
-    {
-      "key": "Documents/klappir_core.mdx",
-      "value": {
-        "name": "Klappir Core",
-        "route": "/platforms",
-        "menu": "Platforms",
-        "id": "fe082852e1dee9dda43cbeb607dc4e97",
-        "filepath": "Documents/klappir_core.mdx",
-        "fullpath": "/Users/hjalti/klappir_learn/Documents/klappir_core.mdx",
-        "link": "",
-        "slug": "documents-klappir-core",
-        "headings": [
-          {
-            "slug": "klappir-core",
-            "depth": 1,
-            "value": "Klappir Core"
-          },
-          {
-            "slug": "login",
-            "depth": 2,
-            "value": "Login"
-          }
-        ]
-      }
     }
   ],
   "props": [
     {
       "key": "src/gatsby-theme-docz/components/Header/index.js",
-      "value": [
-        {
-          "description": "",
-          "displayName": "Header",
-          "methods": [],
-          "actualName": "Header"
-        }
-      ]
-    },
-    {
-      "key": ".docz/src/gatsby-theme-docz/components/Header/index.js",
       "value": [
         {
           "description": "",
