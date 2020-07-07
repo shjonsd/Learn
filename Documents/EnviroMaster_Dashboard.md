@@ -187,7 +187,7 @@ You can also select the type of waste you want to look at.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteType.png)
 
-**EWC code** is the code used to identify waste as listed in the *European Waste Catalogue*.
+**EWC code** is the code used to identify waste as listed in the [European Waste Catalogue](http://www.nwcpo.ie/forms/EWC_code_book.pdf).
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteEWCCode.png)
 
@@ -236,6 +236,8 @@ The Analytics tools then give you a chance to delve deeper into the cold water d
 
 ## Gaseous substances
 
+Here is where you have an overview of harmful gases which have been released in your operations. 
+
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/GaseousSubstances.56.png)
 
 ### Details
@@ -246,11 +248,14 @@ The Analytics tools then give you a chance to delve deeper into the cold water d
 
 The Analytics tools give you a chance to delve deeper into the gas data.
 
-
 ## Heating
+
+Here is where you can view your heating data in kWh.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Heating.png)
 
 ### Details
 
+View your heating data for individual years, single months or yearly quarters.  
 
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/HeatingDetails.png)
