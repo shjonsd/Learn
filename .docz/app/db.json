@@ -5,6 +5,12 @@
     "menu": [
       {
         "name": "Klappir"
+      },
+      {
+        "name": "The Klappir Platform"
+      },
+      {
+        "name": "EnviroMaster"
       }
     ],
     "repository": null,
