@@ -6,7 +6,7 @@
   height: 60px;
   background: linear-gradient(180deg, #004157 0%, #003647 100%);
   display: flex;
-justify-content: space-between;
+  justify-content: space-between;
 }
 
 .logo{
@@ -23,4 +23,19 @@ justify-content: space-between;
 .headerLink{
   color: #c4d1d6;
   padding-left: 10px;
+  text-decoration: none;
+}
+
+.headerLink:hover{
+  text-decoration: underline;
+}
+
+.headerLinkButton{
+  background-color: #fff;
+  color: #003c4e;
+  border-radius: 2px;
+  border: none;
+  margin-left: 25px;
+  text-decoration: none;
+  padding: 8px;
 }

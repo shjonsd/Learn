@@ -11,7 +11,7 @@ export const Header = ({ children }) => {
       </div>
       <div className="links">
       <a className="headerLink" href="https://klappir.com">Klappir.com</a>
-      <a className="headerLink" href="https://core.klappir.io">Klappir Core</a>
+      <a className="headerLinkButton" href="https://core.klappir.io">Sign in</a>
       </div>
       {children}
     </div>

@@ -28,7 +28,11 @@ const config = {
         },
         themesDir: 'src',
         docgenConfig: {},
-        menu: [{ name: 'Klappir' }],
+        menu: [
+          { name: 'Klappir' },
+          { name: 'The Klappir Platform' },
+          { name: 'EnviroMaster' },
+        ],
         mdPlugins: [],
         hastPlugins: [],
         ignore: ['README.md'],
@@ -57,7 +61,7 @@ const config = {
         title: 'Klappir Learn',
         description: 'Documentation for Klappir platforms',
         host: 'localhost',
-        port: 3002,
+        port: 3000,
         p: 3000,
         separator: '-',
         paths: {

@@ -249,6 +249,16 @@
             "slug": "klappir-learn",
             "depth": 1,
             "value": "Klappir Learn"
+          },
+          {
+            "slug": "documentation-how-to-use-klappir-enviromaster-and-supporting-solutions",
+            "depth": 3,
+            "value": "Documentation how to use Klappir EnviroMaster and supporting solutions"
+          },
+          {
+            "slug": "enviromaster",
+            "depth": 4,
+            "value": "EnviroMaster"
           }
         ]
       }
@@ -257,6 +267,17 @@
   "props": [
     {
       "key": "src/gatsby-theme-docz/components/Header/index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Header",
+          "methods": [],
+          "actualName": "Header"
+        }
+      ]
+    },
+    {
+      "key": ".docz/src/gatsby-theme-docz/components/Header/index.js",
       "value": [
         {
           "description": "",
