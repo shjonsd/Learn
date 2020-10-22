@@ -4,8 +4,6 @@ route: /enviromaster
 name: Introduction
 ---
 
-
-
 # EnviroMaster
 
 Welcome to Klappir EnviroMaster!
@@ -22,12 +20,12 @@ Klappir EnviroMaster is our flagship sustainability solution. It is designed for
 
 ## Why Should I Use Klappir EnviroMaster?
 
-Do you need to do environmental accounting? Deliver reliable ESG reporting? If the answer is yes, then our sustainability platform provides all the right tools for you. We make the data collection easy as pie and guarantee that your environmental accounting and reporting adhere to all the most common standards, laws and regulations. 
+Do you need to do environmental accounting? Deliver reliable ESG reporting? If the answer is yes, then our sustainability platform provides all the right tools for you. We make the data collection easy as pie and guarantee that your environmental accounting and reporting adhere to all the most common standards, laws and regulations.
 
-Klappir EnviroMaster is currently used by organisations, municipalities, and businesses across all sectors. 
+Klappir EnviroMaster is currently used by organisations, municipalities, and businesses across all sectors.
 
 ## How Do I Measure My Sustainability?
- 
+
 First, you need a complete list of your service providers, specifically your utilities. Who supplies the company with electricity? What about the fuel for the car fleet? Once you have made that list, the next step is to determine how to obtain the necessary data. (In Iceland, we do this by establishing a direct connection with service providers and utility companies. It will depend on your region how you can obtain the necessary data streams and/or the required data.)
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/kona_med_tolvu_MINNI.png)

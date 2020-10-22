@@ -1,7 +1,7 @@
 ---
-menu: The Klappir Platform
-route: /the_klappir_platform
-name: The Klappir Platform
+menu: Klappir Platform
+route: /klappir_platform
+name: Sustainability
 ---
 
 # The Klappir Platform
@@ -10,9 +10,7 @@ name: The Klappir Platform
 
 Our digital solutions are designed for businesses, organizations and municipalities that want to create strong infrastructure for effective sustainability management.
 
-By streaming varied environmental data into one and the same platform we create a more reliable and detailed overview of your operational footprint than has up until now been possible. You can then use that information to greatly diminish the negative impact of your operation as well as increasing your operational efficiency by reducing waste and better managing your use of resources.  
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ofurhetja_i_lit_FINAL.png)
+By streaming varied environmental data into one and the same platform we create a more reliable and detailed overview of your operational footprint than has up until now been possible. You can then use that information to greatly diminish the negative impact of your operation as well as increasing your operational efficiency by reducing waste and better managing your use of resources.
 
 By connecting to different meters and sensors from service providers and streaming data about electricity, fuel, and hot and cold water into the Klappir Platform, as well as regularly registering information about staff flights and other activities related to the operation, we create a comprehensive overview of your energy intensity, which allows you to devise sophisticated plans for reducing your environmental footprint.  
 
@@ -43,7 +41,5 @@ The main driver behind The Klappir Platform is to provide our customers with a s
 The thinking behind Klappir's sustainability solutions is aligned with the UN Sustainability Development Goals.
 
 The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, provides a shared blueprint for peace and prosperity for people and the planet, now and into the future. At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries - developed and developing - in a global partnership.
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/PositiveBrandingCircle_minni.png)
 
 Our overarching aims is to help protect, sustain, and regenerate our natural resources for not only the future––but right now. Because climate change is already transforming our world with incredible speed and we need to act today. At Klappir, we contribute by leading the way in carbon footprint reporting.
