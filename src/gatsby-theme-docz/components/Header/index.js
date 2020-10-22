@@ -9,10 +9,6 @@ export const Header = ({ children }) => {
       <div>
       <a className="logo" href="/"><img src={logo} alt="Klappir Logo" /></a>
       </div>
-      <div className="links">
-      <a className="headerLink" href="https://klappir.com">Klappir.com</a>
-      <a className="headerLinkButton" href="https://core.klappir.io">Sign in</a>
-      </div>
       {children}
     </div>
   );
