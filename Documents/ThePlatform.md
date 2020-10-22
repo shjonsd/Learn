@@ -6,7 +6,7 @@ name: Sustainability
 
 # The Klappir Platform
 
-## Sustainability Management
+## Management
 
 Our digital solutions are designed for businesses, organizations and municipalities that want to create strong infrastructure for effective sustainability management.
 
