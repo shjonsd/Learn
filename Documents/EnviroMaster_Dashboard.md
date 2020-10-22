@@ -1,7 +1,7 @@
 ---
 menu: EnviroMaster
 route: /enviromaster_dashboard
-name: The EnviroMaster Dashboard
+name: Dashboard
 ---
 
 # The EnviroMaster Dashboard
@@ -10,7 +10,7 @@ EnviroMaster collects all your environmental data and presents it to you through
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/EnviroMasterDashboard.png)
 
-Here is where you have a comphrehensive overview of your total environmental footprint – that is, the overall sustainability of your operation. This unprecedented overview of your energy intensity should cover your whole business operation. 
+Here is where you have a comphrehensive overview of your total environmental footprint – that is, the overall sustainability of your operation. This unprecedented overview of your energy intensity should cover your whole business operation.
 
 On the Dashboard you have bar charts for fuel, electricity, waste, hot and cold water, gaseous substances, and heating. Based on the data, we are then able to calculate the CO2 equivalents of your total emissions.
 
@@ -23,7 +23,7 @@ Carbon dioxide equivalents, also written tCO₂e, is a measure used to compare t
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Carbon+equivalents.png)
 
 ### Details
-The Klappir methodology is based on the three scopes defined in the Greenhouse Gas Protocol. 
+The Klappir methodology is based on the three scopes defined in the Greenhouse Gas Protocol.
 
 <b>Scope 1</b>: All direct emissions stemming from the activities of an organisation.
 
@@ -35,7 +35,7 @@ The Dashboard displays emissions for all three scopes.
 
 ### Analytics
 
-By clicking on “Details” you can view a timeline displaying your emissions (released CO₂ equivalents, in tonnes) for any given year. 
+By clicking on “Details” you can view a timeline displaying your emissions (released CO₂ equivalents, in tonnes) for any given year.
 
 For convenience, you can break the year up in months or quarters (which is helpful when delivering quarterly statements).
 
@@ -43,7 +43,7 @@ You can also view your cumulative emissions throughout all the years.
 
 ## Fuel
 
-View your fuel consumption in either kilograms or litres. 
+View your fuel consumption in either kilograms or litres.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Fuel.40.png)
 
@@ -79,7 +79,7 @@ and view individual assets, such as specific vehicles.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsAllAssets.png)
 
-The fun, however, is in customising what is displayed on the dashboard. 
+The fun, however, is in customising what is displayed on the dashboard.
 
 First of all, you can choose what is shown on the bar chart
 
@@ -95,19 +95,19 @@ and the y value.
 
 To give an example, this is how the fuel data is displayed when stacked by asset and with x value as months and the y value as carbon equivalents in kg.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelBarChartExample.png) 
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelBarChartExample.png)
 
 Another example: Here you have an overview which shows the type and amount of both diesel and petrol you are buying from different fuel suppliers.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelBarChartExample2.png) 
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelBarChartExample2.png)
 
 Experiment with these feature as much as you like and ask our service team for assistance if you need it. We're here to help!
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/tolva_med_vodva_MINNI.png) 
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/tolva_med_vodva_MINNI.png)
 
 ## Electricity
 
-Next you have an overview of your total electricity consumption. 
+Next you have an overview of your total electricity consumption.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Electricity.59.png)
 
@@ -135,17 +135,17 @@ and select the unit for displaying the electricity consumption. You can view it 
 
 You can also select asset groups
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityAssetGroups.png) 
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityAssetGroups.png)
 
 or look at individual assets.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityIndividualAssets.png) 
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityIndividualAssets.png)
 
 The analytics tools allow you to compare the energy consumption in different workstations and buildings, compare your electricity consumption over different monthts, quarters and years, and seek opportunities for improvements.
 
 ## Waste
 
-Our customers have cut their operational costs by large amounts simply by getting serious about sorting their waste. 
+Our customers have cut their operational costs by large amounts simply by getting serious about sorting their waste.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Waste.13.png)
 
@@ -175,7 +175,7 @@ and the asset group.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteAssetGroups.png)
 
-You can also view individual locations 
+You can also view individual locations
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteLocation.png)
 
@@ -236,7 +236,7 @@ The Analytics tools then give you a chance to delve deeper into the cold water d
 
 ## Gaseous substances
 
-Here is where you have an overview of harmful gases which have been released in your operations. 
+Here is where you have an overview of harmful gases which have been released in your operations.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/GaseousSubstances.56.png)
 

@@ -6,7 +6,7 @@ name: Sustainability
 
 # The Klappir Platform
 
-## Sustainability Management on the Klappir Platform
+## Sustainability Management
 
 Our digital solutions are designed for businesses, organizations and municipalities that want to create strong infrastructure for effective sustainability management.
 
@@ -14,7 +14,7 @@ By streaming varied environmental data into one and the same platform we create 
 
 By connecting to different meters and sensors from service providers and streaming data about electricity, fuel, and hot and cold water into the Klappir Platform, as well as regularly registering information about staff flights and other activities related to the operation, we create a comprehensive overview of your energy intensity, which allows you to devise sophisticated plans for reducing your environmental footprint.  
 
-## The Klappir Methodology
+## Methodology
 
 ### The Greenhouse Gas Protocol
 
