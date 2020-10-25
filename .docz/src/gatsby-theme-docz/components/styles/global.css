@@ -2,6 +2,10 @@
   font-family: 'Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif'
 }
 
+p{
+  font-size: 16px;
+}
+
 .header{
   height: 80px;
   background: linear-gradient(180deg, #004157 0%, #003647 100%);
