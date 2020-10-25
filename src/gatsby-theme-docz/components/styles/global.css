@@ -2,6 +2,11 @@
   font-family: 'Inter, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif'
 }
 
+h1{
+  font-weight: 600 !important;
+  font-size: 38px !important;
+}
+
 p{
   font-size: 16px;
 }
