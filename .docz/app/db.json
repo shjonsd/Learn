@@ -4,10 +4,10 @@
     "description": "Documentation for Klappir platforms",
     "menu": [
       {
-        "name": "Klappir"
+        "name": "Klappir Learn"
       },
       {
-        "name": "The Klappir Platform"
+        "name": "Klappir Platform"
       },
       {
         "name": "EnviroMaster"
@@ -33,7 +33,7 @@
       "value": {
         "menu": "EnviroMaster",
         "route": "/enviromaster_dashboard",
-        "name": "The EnviroMaster Dashboard",
+        "name": "Dashboard",
         "id": "37e99dc5f0702c75075d23cbf18f06af",
         "filepath": "Documents/EnviroMaster_Dashboard.md",
         "fullpath": "/Users/hjalti/klappir_learn/Documents/EnviroMaster_Dashboard.md",
@@ -156,9 +156,9 @@
     {
       "key": "Documents/ThePlatform.md",
       "value": {
-        "menu": "The Klappir Platform",
-        "route": "/the_klappir_platform",
-        "name": "The Klappir Platform",
+        "menu": "Klappir Platform",
+        "route": "/klappir_platform",
+        "name": "Sustainability",
         "id": "c8db8c02808b57ed4460b1c4f4b71ea5",
         "filepath": "Documents/ThePlatform.md",
         "fullpath": "/Users/hjalti/klappir_learn/Documents/ThePlatform.md",
@@ -171,14 +171,14 @@
             "value": "The Klappir Platform"
           },
           {
-            "slug": "sustainability-management-on-the-klappir-platform",
+            "slug": "management",
             "depth": 2,
-            "value": "Sustainability Management on the Klappir Platform"
+            "value": "Management"
           },
           {
-            "slug": "the-klappir-methodology",
+            "slug": "methodology",
             "depth": 2,
-            "value": "The Klappir Methodology"
+            "value": "Methodology"
           },
           {
             "slug": "the-greenhouse-gas-protocol",
@@ -236,7 +236,7 @@
     {
       "key": "Documents/index.mdx",
       "value": {
-        "name": "Klappir",
+        "name": "Klappir Learn",
         "route": "/",
         "menu": "",
         "id": "c5ca0c7d22d5f3cbaa4f92708e28c2b4",
@@ -251,14 +251,9 @@
             "value": "Klappir Learn"
           },
           {
-            "slug": "documentation-how-to-use-klappir-enviromaster-and-supporting-solutions",
+            "slug": "documentation-how-to-use-klappirlearn-to-support-you",
             "depth": 3,
-            "value": "Documentation how to use Klappir EnviroMaster and supporting solutions"
-          },
-          {
-            "slug": "enviromaster",
-            "depth": 4,
-            "value": "EnviroMaster"
+            "value": "Documentation how to use KlappirLearn to support you"
           }
         ]
       }

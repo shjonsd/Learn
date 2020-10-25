@@ -29,8 +29,8 @@ const config = {
         themesDir: 'src',
         docgenConfig: {},
         menu: [
-          { name: 'Klappir' },
-          { name: 'The Klappir Platform' },
+          { name: 'Klappir Learn' },
+          { name: 'Klappir Platform' },
           { name: 'EnviroMaster' },
         ],
         mdPlugins: [],
