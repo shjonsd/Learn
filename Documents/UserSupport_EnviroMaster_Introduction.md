@@ -1,6 +1,6 @@
 ---
-menu: EnviroMaster
-route: /enviromaster
+menu: Klappir Platform
+route: /introduction
 name: Introduction
 ---
 
