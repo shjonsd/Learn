@@ -1,10 +1,10 @@
 ---
-menu: Klappir Platform
+menu: Klappir Methodology
 route: /klappir_platform
-name: Sustainability
+name: Methodology
 ---
 
-# The Klappir Platform
+# The Klappir Methodology
 
 ## Management
 
@@ -12,9 +12,7 @@ Our digital solutions are designed for businesses, organizations and municipalit
 
 By streaming varied environmental data into one and the same platform we create a more reliable and detailed overview of your operational footprint than has up until now been possible. You can then use that information to greatly diminish the negative impact of your operation as well as increasing your operational efficiency by reducing waste and better managing your use of resources.
 
-By connecting to different meters and sensors from service providers and streaming data about electricity, fuel, and hot and cold water into the Klappir Platform, as well as regularly registering information about staff flights and other activities related to the operation, we create a comprehensive overview of your energy intensity, which allows you to devise sophisticated plans for reducing your environmental footprint.  
-
-## Methodology
+By connecting to different meters and sensors from service providers and streaming data about electricity, fuel, and hot and cold water into the Klappir Platform, as well as regularly registering information about staff flights and other activities related to the operation, we create a comprehensive overview of your energy intensity, which allows you to devise sophisticated plans for reducing your environmental footprint.
 
 ### The Greenhouse Gas Protocol
 
