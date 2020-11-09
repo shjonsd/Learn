@@ -18,7 +18,7 @@ By connecting to different meters and sensors from service providers and streami
 
 ### The Greenhouse Gas Protocol
 
-Klappir’s approach to smart environmental management uses **The Greenhouse Gas Protocol** as a point of reference.
+The Klappir approach to smart sustainability management is based on the **The Greenhouse Gas Protocol** and it entails tracking, measuring, and monitoring carbon emissions inventories leading to discovering where to eliminate excess consumption and waste.
 
 The GHG Protocol is the most widely used international accounting tool for government and business leaders to understand, quantify, and manage greenhouse gas emissions.
 
@@ -26,7 +26,7 @@ Simply put, The GHG Protocol collects the standards, guidelines and tools for ac
 
 The overarching goal of the Greenhouse Gas Protocol is therefore to reduce emissions and control the six anthropogenic (human-emitted) greenhouse gases outlined in the Kyoto Protocol (Japan, Dec. 1997).
 
-[Here](https://klappir.com/blog/the-greenhouse-gas-protocol-explained) is an article on the Klappir website where we thoroughly explain the methodology behind the GHG Protocol.
+[Here](https://klappir.com/blog/the-greenhouse-gas-protocol-explained) is an article on our website explaining the methodology behind the GHG Protocol.
 
 ### The Paris Climate Agreement
 
