@@ -1,5 +1,5 @@
 ---
-menu: Klappir Methodology
+menu: Klappir Platform
 route: /klappir_platform
 name: Methodology
 ---
@@ -41,3 +41,63 @@ The thinking behind Klappir's sustainability solutions is aligned with the UN Su
 The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, provides a shared blueprint for peace and prosperity for people and the planet, now and into the future. At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries - developed and developing - in a global partnership.
 
 Our overarching aims is to help protect, sustain, and regenerate our natural resources for not only the future––but right now. Because climate change is already transforming our world with incredible speed and we need to act today. At Klappir, we contribute by leading the way in carbon footprint reporting.
+
+---
+menu: Klappir Platform
+route: /klappir_platform
+name: Platform
+---
+
+# The Klappir Platform
+
+## The Platform Menu
+
+The Klappir Platform is found @ [core.klappir.io] (https://core.klappir.io/). First you will encounter a login popup -- enter your login credintials then click Log in button. The account is created by your dedicated account manager after the purchase or for the trial of the system. Your account name will appear as the first item and the four primary menu items will present below the account name (menu image).
+
+
+
+At the top of the opening screen is the module Menu bar. You will select the modules you want to use by clicking the icons. EnviroMaster (leaf icon) is the primary module for most of our users, but many users have multiple modules in play and navigate between them easily (bar image).
+
+## Assets
+
+### How to create assets
+
+Assets form the base of the company’s measurable data that makes up the carbon emissions inventory. Making a list of your assets that are generating the emissions is a good first step. Once you have a list of assets you are ready to start using the system.
+For us to be able to create a reliable, transparent overview of your carbon footprint, it is vital that you leave nothing out when registering your assets.
+
+  1. Click the menu item, Assets, to open the assets manager. 
+  2. Click the New Asset button to create a new asset. You can create or register your assets in different ways, depending on the modules you are using and your location         (Manual, Bulk upload and API).
+  3. Manually entering each asset is the common means for EnviroMaster users at this time who are located outside of Iceland. If you are only using the EnviroMaster, click the Manual button. If using other modules, jump to that Section for further instructions.
+  4. Select the type of asset you are creating from the dropdown menu. Your choices are:
+      - Vehicle
+      - Structure
+      - Ship
+      - Aircraft
+      - Other
+  5. Enter the correct text in each of the Required Fields and remember to use a unique registration number for each asset, as this is how the system will identify each one. The Optional Fields are up to you.
+  6. Click the Insert button to complete.
+  
+#### Asset Cards
+Under the Assets menu item you will also notice the items Map and Assign data. The Map is exactly that, a geo-location of that asset. A few more pieces of data are required to use this feature that are found in the Asset Card for each asset.
+
+  1. From the list of assets, click an individual asset name.
+  2. Notice the Asset Card (additional info) open to the right of the asset.
+  3. For Asset type, Structure, you enter in the Latitude and Longitude.
+  4. For other types of Assets (vehicles, ships, aircraft) contact your Klappir account manager for assistance in setting up the geo-location.
+
+#### Assign Data
+
+The Assign Data under Assets is a crucial step in the process. You will need consumption data in the system (see the Data Importing menu item for guidance).
+
+  1. Select the type of data that needs to be assigned after importing.
+  2. Data as Labelled by Source is the asset from the new consumption data that needs to be assigned to the correct asset. Use the dropdown arrow to select from your list of assets.
+  3. Click the Confirm button to save.
+
+You can review all Assigned data here too (Assigned Data button) to ensure that everything is correctly assigned for accurate emissions reporting.
+
+
+
+
+
+
+
