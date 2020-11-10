@@ -54,13 +54,12 @@ Each of these has a number of filters available for reviewing cumulative data fo
 
 #### Overview
 
-The first tab view in your fuel consumption is the Overview. The Overview is a collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
+The first tab view in your fuel consumption is the Overview and here you can delve deeper into the fuel data and customise what is displayed on the Overview. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
 
 The X Value and Y Value are the filters used to compare your asset consumption and the emissions released CO₂ equivalents, in tonnes.
 
-(image 
+(image Fule-Overview)
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Fuel.40.png)
-
 
 View your fuel intensity for individual years, single months or yearly quarters.  
 
@@ -70,11 +69,6 @@ This is a great tool for keeping track of how your goals for reducing your footp
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/kona_med_tolvu_MINNI.png)
 
-### Summary
-
-Here is where you can delve deeper into the fuel data and customise what is displayed on the dashboard.
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalytics.png)
 
 Choose the date range you want to look at
 
