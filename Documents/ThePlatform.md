@@ -173,9 +173,12 @@ Deleting the imported data will occasionally be required. If the supplier makes 
   1. Use the **+** to the left of the date to open the transactional data from that import and review.
   2. If necessary, delete the selected dataset import with the **Delete** button.
 
-### Systems
+## Systems
 
 Subsystems are crucial for organizations that want to track emissions inventories over multiple companies or divisions. Subsystems allow users to view data be individual subsystems, as well as combined into the parent company overall. Users can select the subsystems in the hierarchical structure to review that system’s account.
 
 Users assigned to specific subsystems only have access to that subsystem data and analytics. Users assigned to the Patent account have access and overview of all systems.
 
+## Files
+
+The Platform Document Manager is used to add documents to the projects. The documents used for compliance and conformity of International Standards such as ISO 14001 or ISO 50001 or for ships at sea providing documents to port masters.
