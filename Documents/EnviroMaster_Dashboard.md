@@ -126,7 +126,6 @@ Next you have an overview of your total electricity consumption.
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Electricity.59.png)
 
 
-
 Here is where you can delve deeper into the electricity data.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityAnalytics.png)
@@ -160,9 +159,6 @@ This is a great place for keeping track of how your goals for reducing your foot
 #### Transactions
 
 The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
-
-
-
 
 ### Waste
 
@@ -236,7 +232,7 @@ The third tab displays the Transactions data. Here you can review all the transa
 
 
 
-## Hot Water
+### Hot Water
 
 View your hot water consumption in either cubic meters or kWh.
 
@@ -248,7 +244,20 @@ The Analytics tools give you a chance to delve deeper into the hot water data.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/HotWaterAnalytics.png)
 
-## Cold Water
+#### Summary
+
+View your Hot water consumption for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
+
+(image HotWater-summary)
+
+#### Transactions
+
+The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
+
+(image HotWater-transactions)
+
+
+### Cold Water
 
 You can view your cold water consumption in cubic meters.
 
@@ -259,6 +268,19 @@ You can view your cold water consumption in cubic meters.
 The Analytics tools then give you a chance to delve deeper into the cold water data.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ColdWaterAnalytics.png)
+
+#### Summary
+
+View your fuel intensity for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
+
+(image ColdWater-summary)
+
+#### Transactions
+
+The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
+
+(image ColdWater-transactions)
+
 
 ## Gaseous substances
 
@@ -274,14 +296,40 @@ Here is where you have an overview of harmful gases which have been released in 
 
 The Analytics tools give you a chance to delve deeper into the gas data.
 
+#### Summary
+
+View your fuel intensity for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
+
+(image Gaseous-summary)
+
+#### Transactions
+
+The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
+
+(image Gaseous-transactions)
+
+
 ## Heating
 
 Here is where you can view your heating data in kWh.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Heating.png)
 
-### Details
+#### Overview 
 
 View your heating data for individual years, single months or yearly quarters.  
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/HeatingDetails.png)
+
+#### Summary
+
+View your Heating intensity for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
+
+(image Heating-summary)
+
+#### Transactions
+
+The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
+
+(image Heating-transactions)
+
