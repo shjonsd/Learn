@@ -80,7 +80,7 @@ and view individual assets, such as specific vehicles.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsAllAssets.png)
 
-The fun, however, is in customising what is displayed on the dashboard.
+The fun, however, is in customising what is displayed on the Overview and the deep-diving analysis to discover how to decrease emisssions quickly.
 
 First of all, you can choose what is shown on the bar chart
 
@@ -108,24 +108,24 @@ Experiment with these feature as much as you like and ask our service team for a
 
 #### Summary
 
-View your fuel intensity for individual years, single months or yearly quarters. 
+View your fuel intensity for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
+
+(image Fuel-summary)
+
+#### Transactions
+
+The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
+
+(image Fuel-transactions)
 
 
-## Electricity
+### Electricity
 
 Next you have an overview of your total electricity consumption.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Electricity.59.png)
 
-### Details
 
-View your electricity intensity for individual years, single months or yearly quarters.  
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityDetails.png)
-
-This is a great place for keeping track of how your goals for reducing your footprint are going and helps you spot opportunities for improvement.
-
-### Analytics
 
 Here is where you can delve deeper into the electricity data.
 
@@ -149,7 +149,22 @@ or look at individual assets.
 
 The analytics tools allow you to compare the energy consumption in different workstations and buildings, compare your electricity consumption over different monthts, quarters and years, and seek opportunities for improvements.
 
-## Waste
+#### Summary
+
+View your electricity intensity for individual years, single months or yearly quarters.  
+
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityDetails.png)
+
+This is a great place for keeping track of how your goals for reducing your footprint are going and helps you spot opportunities for improvement.
+
+#### Transactions
+
+The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
+
+
+
+
+### Waste
 
 Our customers have cut their operational costs by large amounts simply by getting serious about sorting their waste.
 
@@ -159,15 +174,7 @@ You can list as many waste types as you need in our system.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Karl_med_rusl_minni.png)
 
-### Details
-
-View your waste generation for individual years, single months or yearly quarters.  
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteDetails.png)
-
-This is where you keep track of how your goals for reducing your footprint are going and helps you spot opportunities for better sorting your waste as well as reducing it.
-
-### Analytics
+#### Overview
 
 Here is where you can delve deeper into the waste data.
 
@@ -214,6 +221,19 @@ Here for three locations:
 Here for all locations:
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteAnalytics2.png)
+
+#### Summary
+
+View your waste generation for individual years, single months or yearly quarters.  
+
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteDetails.png)
+
+This is where you keep track of how your goals for reducing your footprint are going and helps you spot opportunities for better sorting your waste as well as reducing it.
+
+#### Transactions
+
+The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
+
 
 
 ## Hot Water
