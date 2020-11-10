@@ -12,53 +12,55 @@ Streaming transactional consumption data into the Klappir Platform is the best m
 
 Technically you can measure any type of operational consumption and waste production. But let’s start at the beginning to get the consumption data flowing into the system and identifying the assets generating the consumption and waste.
 
-
+The EnviroMaster module icon is a leaf in the horizontal menu bar at the top of the page. The other icons in the menu bar are other Klappir solutions. (image EnviroMaster-Module menu)
 
 
 # The EnviroMaster Dashboard
 
-EnviroMaster collects all your environmental data and presents it to you through a user-friendly interface on the Klappir Dashboard.
+EnviroMaster is a collection of all your consumption data presented in a user-friendly interface starting with the Klappir Dashboard. **Insights** is the menu item for EnviroMaster's Dashboard. Each category, side menu or on the Dashboard, are clickable and open the analytics for each.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/EnviroMasterDashboard.png)
 
-Here is where you have a comphrehensive overview of your total environmental footprint – that is, the overall sustainability of your operation. This unprecedented overview of your energy intensity should cover your whole business operation.
+The Dashboard is a clear and comphrehensive overview of your total environmental footprint – that is, the overall sustainability of your operation. This unprecedented overview of your energy intensity should cover your whole business operation.
 
 On the Dashboard you have bar charts for fuel, electricity, waste, hot and cold water, gaseous substances, and heating. Based on the data, we are then able to calculate the CO2 equivalents of your total emissions.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Milli+himins+og+jar%C3%B0ar%2C+svarthvi%CC%81t%2C+li%CC%81til_white.png)
 
-## tCO₂e - What are carbon equivalents?
+### tCO₂e - What are carbon equivalents?
 
 Carbon dioxide equivalents, also written tCO₂e, is a measure used to compare the emissions from various greenhouse gases based upon their global warming potential. To give an example, metan (CH₄) equals 28 tCO₂e and nitrous oxide (N₂O) equals 265 28 tCO₂e.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Carbon+equivalents.png)
 
-### Details
-The Klappir methodology is based on the three scopes defined in the Greenhouse Gas Protocol.
+The Klappir methodology is based on the three scopes defined in the Greenhouse Gas Protocol. The Dashboard displays emissions for all three scopes.
 
-<b>Scope 1</b>: All direct emissions stemming from the activities of an organisation.
+**Scope 1**: All direct emissions stemming from the activities of an organisation.
 
-<b>Scope 2</b>: Indirect emissions from electricity purchased and used by the organisation. Emissions are created during the production of the energy and eventually used by the organisation.
+**Scope 2**: Indirect emissions from electricity purchased and used by the organisation. Emissions are created during the production of the energy and eventually used by the organisation.
 
-<b>Scope 3</b>: All other indirect emissions stemming from operational activities, for example through services provided by others. Staff flights are a good example.
+**Scope 3**: All other indirect emissions stemming from operational activities, for example through services provided by others. Staff flights are a good example.
 
-The Dashboard displays emissions for all three scopes.
+## Insights
 
-### Analytics
+Insights is the term the Klappir EnviroMaster uses for the Analytics breakdowns. Each consumption category includes 3 tabs for the analytics:
+  - Overview
+  - Summary
+  - Transactions
+  
+Each of these has a number of filters available for reviewing cumulative data for the year or comparison of specific assets energy intensity.
 
-By clicking on “Details” you can view a timeline displaying your emissions (released CO₂ equivalents, in tonnes) for any given year.
+### Fuel
 
-For convenience, you can break the year up in months or quarters (which is helpful when delivering quarterly statements).
+#### Overview
 
-You can also view your cumulative emissions throughout all the years.
+The first tab view in your fuel consumption is the Overview. The Overview is a collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
 
-## Fuel
+The X Value and Y Value are the filters used to compare your asset consumption and the emissions released CO₂ equivalents, in tonnes.
 
-View your fuel consumption in either kilograms or litres.
-
+(image 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Fuel.40.png)
 
-### Details
 
 View your fuel intensity for individual years, single months or yearly quarters.  
 
@@ -68,7 +70,7 @@ This is a great tool for keeping track of how your goals for reducing your footp
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/kona_med_tolvu_MINNI.png)
 
-### Analytics
+### Summary
 
 Here is where you can delve deeper into the fuel data and customise what is displayed on the dashboard.
 
