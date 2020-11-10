@@ -59,16 +59,10 @@ The first tab view in your fuel consumption is the Overview and here you can del
 The X Value and Y Value are the filters used to compare your asset consumption and the emissions released CO₂ equivalents, in tonnes.
 
 (image Fule-Overview)
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Fuel.40.png)
-
-View your fuel intensity for individual years, single months or yearly quarters.  
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelDetails.png)
 
 This is a great tool for keeping track of how your goals for reducing your footprint are going and spot opportunities for improvement.
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/kona_med_tolvu_MINNI.png)
-
 
 Choose the date range you want to look at
 
@@ -111,6 +105,11 @@ Another example: Here you have an overview which shows the type and amount of bo
 Experiment with these feature as much as you like and ask our service team for assistance if you need it. We're here to help!
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/tolva_med_vodva_MINNI.png)
+
+#### Summary
+
+View your fuel intensity for individual years, single months or yearly quarters. 
+
 
 ## Electricity
 
