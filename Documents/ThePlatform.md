@@ -10,28 +10,7 @@ name: Platform
 
 The Klappir Platform is found @ [core.klappir.io(https://core.klappir.io/)]. First you will encounter a login popup -- enter your login credintials then click Log in button. The account is created by your dedicated account manager after the purchase or for the trial of the system. Your account name will appear as the first item and the four primary menu items will present below the account name (menu image).
 
-
-
 At the top of the opening screen is the module Menu bar. You will select the modules you want to use by clicking the icons. EnviroMaster (leaf icon) is the primary module for most of our users, but many users have multiple modules in play and navigate between them easily (bar image).
-
-## Assets
-
-### How to create assets
-
-Assets form the base of the company’s measurable data that makes up the carbon emissions inventory. Making a list of your assets that are generating the emissions is a good first step. Once you have a list of assets you are ready to start using the system.
-For us to be able to create a reliable, transparent overview of your carbon footprint, it is vital that you leave nothing out when registering your assets. (image side menu-Assets)
-
-  1. Click the menu item, Assets, to open the assets manager. 
-  2. Click the New Asset button to create a new asset. You can create or register your assets in different ways, depending on the modules you are using and your location         (Manual, Bulk upload and API).
-  3. Manually entering each asset is the common means for EnviroMaster users at this time who are located outside of Iceland. If you are only using the EnviroMaster, click the Manual button. If using other modules, jump to that Section for further instructions.(image manual-api)
-  4. Select the type of asset you are creating from the dropdown menu. Your choices are:
-      - Vehicle
-      - Structure
-      - Ship
-      - Aircraft
-      - Other
-  5. Enter the correct text in each of the Required Fields and remember to use a unique registration number for each asset, as this is how the system will identify each one. The Optional Fields are up to you.(image new asset popup) 
-  6. Click the Insert button to complete.
   
 ### Asset Cards
 Under the Assets menu item you will also notice the items Map and Assign data. The Map is exactly that, a geo-location of that asset. A few more pieces of data are required to use this feature that are found in the Asset Card for each asset.
