@@ -11,34 +11,6 @@ name: Platform
 The Klappir Platform is found @ [core.klappir.io(https://core.klappir.io/)]. First you will encounter a login popup -- enter your login credintials then click Log in button. The account is created by your dedicated account manager after the purchase or for the trial of the system. Your account name will appear as the first item and the four primary menu items will present below the account name (menu image).
 
 At the top of the opening screen is the module Menu bar. You will select the modules you want to use by clicking the icons. EnviroMaster (leaf icon) is the primary module for most of our users, but many users have multiple modules in play and navigate between them easily (bar image).
-  
-### Asset Cards
-Under the Assets menu item you will also notice the items Map and Assign data. The Map is exactly that, a geo-location of that asset. A few more pieces of data are required to use this feature that are found in the Asset Card for each asset.
-
-  1. From the list of assets, click an individual asset name.
-  2. Notice the Asset Card (additional info) open to the right of the asset.
-  3. For Asset type, Structure, you enter in the Latitude and Longitude.
-  4. For other types of Assets (vehicles, ships, aircraft) contact your Klappir account manager for assistance in setting up the geo-location. (image asset card edits)
-
-### Assign Data
-
-The Assign Data under Assets is a crucial step in the process. You will need consumption data in the system (see the Data Importing menu item for guidance).
-
-  1. Select the type of data that needs to be assigned after importing.
-  2. Data as Labelled by Source is the asset from the new consumption data that needs to be assigned to the correct asset. Use the dropdown arrow to select from your list of assets.
-  3. Click the Confirm button to save. (image Assigning asset data)
-
-You can review all Assigned data here too (Assigned Data button) to ensure that everything is correctly assigned for accurate emissions reporting.
-
-### Asset Groups
-
-Users can organize their assets into groups, and these groups can then be analyzed separately, either through the analytical tools or the built-in reporting tools. Sub-systems for individual groups can also be created, and the admin can choose which staff has access to different groups.
-
-The grouping is part of the asset management. You group together different assets based on their common attributes. Groups can be anything and include all company operations in a certain geo-locations, divisions, stakeholders or subsystem, such as: cars, buildings, sea vessels, flights, etc. (image Asset grouping)
-
-  1. Open Assets in the side menu. 
-  2. Here you choose which assets you want to put in the group and then select a pre-existing group or create a new one. You can group ships, vehicles, aircrafts, and structures. Assets that do not fit into any of the four categories can be added as “Other”.
-
 
 ## Users
 
