@@ -1,7 +1,7 @@
 ---
 menu: EnviroMaster
 route: /enviromaster_dashboard
-name: Module
+name: Insights
 ---
 
 # The EnviroMaster Module
