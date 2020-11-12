@@ -1,3 +1,9 @@
+---
+menu: Klappir Platform
+route: /klappir_platform
+name: Users
+---
+
 # Users
 
 ## How to add users
