@@ -1,6 +1,6 @@
 ---
 menu: Klappir Platform
-route: /klappir_platform
+route: /klappir_platform_assets
 name: Assets
 ---
 
