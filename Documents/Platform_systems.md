@@ -1,3 +1,9 @@
+---
+menu: Klappir Platform
+route: /klappir_platform_systems
+name: Systems
+---
+
 # Systems
 
 ## Subsystems
