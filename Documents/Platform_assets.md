@@ -1,6 +1,12 @@
-## Assets
+---
+menu: Klappir Platform
+route: /klappir_platform
+name: Assets
+---
 
-### How to create assets
+# Assets
+
+## How to create assets
 
 Assets form the base of the company’s measurable data that makes up the carbon emissions inventory. Making a list of your assets that are generating the emissions is a good first step. Once you have a list of assets you are ready to start using the system.
 For us to be able to create a reliable, transparent overview of your carbon footprint, it is vital that you leave nothing out when registering your assets. (image side menu-Assets)
