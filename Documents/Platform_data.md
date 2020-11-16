@@ -11,11 +11,11 @@ name: Data
 The Data Overview provides a dashboard view of the datasets in the tool by consumption category. The imported data and the streamed data directly from APIs is reviewable as transactional data under each category. You can select the year filter for review. Each Category is clickable and open the transactional data in detail.
 
 There are consumption categories that provide data here that is not currently visable in the Platform Dashboard or the Insights analytics. Those categories are:
-    -Transport as flights
-    -Transport as trips
-    -Print as paper
-    -Cargo
-    -Gas
+    - Transport as flights
+    - Transport as trips
+    - Print as paper
+    - Cargo
+
  ![New Users](https://klappir-static.s3.amazonaws.com/img/learn/Data-Overview-dashboard.png)
 
 ## Data Sources
