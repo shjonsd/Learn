@@ -12,26 +12,23 @@ Streaming transactional consumption data into the Klappir Platform is the best m
 
 Technically you can measure any type of operational consumption and waste production. But let’s start at the beginning to get the consumption data flowing into the system and identifying the assets generating the consumption and waste.
 
-The EnviroMaster module icon is a leaf in the horizontal menu bar at the top of the page. The other icons in the menu bar are other Klappir solutions. (image EnviroMaster-Module menu)
-
+The EnviroMaster module icon is a leaf in the horizontal menu bar at the top of the page. The other icons in the menu bar are other Klappir solutions.
 
 # The EnviroMaster Dashboard
 
 EnviroMaster is a collection of all your consumption data presented in a user-friendly interface starting with the Klappir Dashboard. **Insights** is the menu item for EnviroMaster's Dashboard. Each category, side menu or on the Dashboard, are clickable and open the analytics for each.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/EnviroMasterDashboard.png)
+![EnviroMaster Dashboard](https://klappir-static.s3.amazonaws.com/img/learn/EnviroMaster-Insights-Dashboard.png)
 
 The Dashboard is a clear and comphrehensive overview of your total environmental footprint – that is, the overall sustainability of your operation. This unprecedented overview of your energy intensity should cover your whole business operation.
 
 On the Dashboard you have bar charts for fuel, electricity, waste, hot and cold water, gaseous substances, and heating. Based on the data, we are then able to calculate the CO2 equivalents of your total emissions.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Milli+himins+og+jar%C3%B0ar%2C+svarthvi%CC%81t%2C+li%CC%81til_white.png)
-
 ### tCO₂e - What are carbon equivalents?
 
 Carbon dioxide equivalents, also written tCO₂e, is a measure used to compare the emissions from various greenhouse gases based upon their global warming potential. To give an example, metan (CH₄) equals 28 tCO₂e and nitrous oxide (N₂O) equals 265 28 tCO₂e.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Carbon+equivalents.png)
+![tCO2e Emisssions chart](https://klappir-static.s3.amazonaws.com/img/learn/Carbon+equivalents.png)
 
 The Klappir methodology is based on the three scopes defined in the Greenhouse Gas Protocol. The Dashboard displays emissions for all three scopes.
 
@@ -58,9 +55,7 @@ The first tab view in your fuel consumption is the Overview and here you can dee
 
 The X Value and Y Value are the filters used to compare your asset consumption and the emissions released CO₂ equivalents, in tonnes.
 
-(image Fule-Overview)
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelDetails.png)
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Fuel-Overview.png)
 
 This is a great tool for keeping track of how your goals for reducing your footprint are going and spot opportunities for improvement.
 
