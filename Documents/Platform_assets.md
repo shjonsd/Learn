@@ -43,6 +43,7 @@ The Assign Data under Assets is a crucial step in the process. You will need con
   1. Select the type of data that needs to be assigned after importing.
   2. Data as Labelled by Source is the asset from the new consumption data that needs to be assigned to the correct asset. Use the dropdown arrow to select from your list of assets.
   3. Click the Confirm button to save.
+
 ![Asset Assigning Data](https://klappir-static.s3.amazonaws.com/img/learn/Assets-Assign-data.png)
 
 You can review all Assigned data here too (Assigned Data button) to ensure that everything is correctly assigned for accurate emissions reporting.
@@ -52,6 +53,7 @@ You can review all Assigned data here too (Assigned Data button) to ensure that 
 Users can organize their assets into groups, and these groups can then be analyzed separately, either through the analytical tools or the built-in reporting tools. Sub-systems for individual groups can also be created, and the admin can choose which staff has access to different groups.
 
 The grouping is part of the asset management. You group together different assets based on their common attributes. Groups can be anything and include all company operations in a certain geo-locations, divisions, stakeholders or subsystem, such as: cars, buildings, sea vessels, flights, etc.
+
 ![Asset Grouping](https://klappir-static.s3.amazonaws.com/img/learn/Assets-grouping.png)
 
   1. Open Assets in the side menu. 
