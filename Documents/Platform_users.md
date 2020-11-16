@@ -20,6 +20,6 @@ No one wants to do this work alone. Your organization will probably have a few o
   4. Select the Role and enter the email address of the new user.
   5. Send invitation to complete the user invite.
   
-![New Users](https://klappir-static.s3.amazonaws.com/img/learn/Users-Invite+send.png)
+![New Users invite](https://klappir-static.s3.amazonaws.com/img/learn/Users-Invite+send.png)
 
 
