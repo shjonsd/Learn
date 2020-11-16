@@ -11,10 +11,12 @@ name: Data
 The Data Overview provides a dashboard view of the datasets in the tool by consumption category. The imported data and the streamed data directly from APIs is reviewable as transactional data under each category. You can select the year filter for review. Each Category is clickable and open the transactional data in detail.
 
 There are consumption categories that provide data here that is not currently visable in the Platform Dashboard or the Insights analytics. Those categories are:
+
     - Transport as flights
     - Transport as trips
     - Print as paper
     - Cargo
+
 
  ![New Users](https://klappir-static.s3.amazonaws.com/img/learn/Data-Overview-dashboard.png)
 
@@ -35,7 +37,7 @@ If an API is set up from your supplier or provider, you will find the company lo
   
 ![Data sources supplier card](https://klappir-static.s3.amazonaws.com/img/learn/Data-Data+sources-supplier+card.png)
 
-  
+ 
 ## Importing Data
 
 When you need to import datasets manually, it is important to have an extensive list of the suppliers and services you need to create as a data source in the Platform. The consumption datasets that you will be importing need to have a data source to connect the data to. Once a service provider is created it will be available in the dropdown list for future data importing.
@@ -50,7 +52,9 @@ When you need to import datasets manually, it is important to have an extensive 
 ![Data Importing New Supplier](https://klappir-static.s3.amazonaws.com/img/learn/Data-import-register+new+supplier.png)
 
   4. In the pop up you need to enter the name of the new data source and enter a Registration number.
+  
 ![Data sources activation](https://klappir-static.s3.amazonaws.com/img/learn/Data-Importing-New+datasource.png)
+
   5. Click Confirm to complete the registration of the New Supplier.
   6. The new data source will now appear in the selection box. If not, something didn’t work in the creation of the new data source.
   7. Next you need to Select Company ID by using the drop down arrow. If more than one company is available, ensure that you are selecting the appropriate company for the datasets you are importing.
@@ -61,7 +65,9 @@ When you need to import datasets manually, it is important to have an extensive 
   1. Download the Template for the dataset you want to import unless your Klappir account manager provided the templates.	
   2. Copy your supplier dataset into the Klappir import template and be sure to align the data in the correct columns. The database tables are strictly setup for these templates only.
   3. Copy the dataset from template and paste into the import tool starting in the first cell.
+  
 ![Data importing copy and paste](https://klappir-static.s3.amazonaws.com/img/learn/Data-Import-Copy+dataset.png)
+
   4. The last line will remain blank. You must delete this line prior to Uploading the data by clicking the red X on the right side of the cells.
   5. Click the Upload button to complete the import.
 
@@ -70,6 +76,7 @@ When you need to import datasets manually, it is important to have an extensive 
 **How to delete Data**
 
 Deleting the imported data will occasionally be required. If the supplier makes an adjustment to the dataset after it has been imported, then deleting and importing the new dataset is the only option to be certain there is no repeat data.
+
 ![Data deletion](https://klappir-static.s3.amazonaws.com/img/learn/Data-Delete+data.png) 
 
   1. Use the **+** to the left of the date to open the transactional data from that import and review.
