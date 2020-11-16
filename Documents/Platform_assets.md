@@ -9,7 +9,7 @@ name: Assets
 ## How to create assets
 
 Assets form the base of the company’s measurable data that makes up the carbon emissions inventory. Making a list of your assets that are generating the emissions is a good first step. Once you have a list of assets you are ready to start using the system.
-For us to be able to create a reliable, transparent overview of your carbon footprint, it is vital that you leave nothing out when registering your assets. (image side menu-Assets)
+For us to be able to create a reliable, transparent overview of your carbon footprint, it is vital that you leave nothing out when registering your assets. (https://klappir-static.s3.amazonaws.com/img/learn/Platform-Account+Menu.png)
 
   1. Click the menu item, Assets, to open the assets manager. 
   2. Click the New Asset button to create a new asset. You can create or register your assets in different ways, depending on the modules you are using and your location         (Manual, Bulk upload and API).
