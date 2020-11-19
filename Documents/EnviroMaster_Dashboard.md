@@ -55,63 +55,63 @@ The first tab view in your fuel consumption is the Overview and here you can dee
 
 The X Value and Y Value are the filters used to compare your asset consumption and the emissions released CO₂ equivalents, in tonnes.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Fuel-Overview.png)
+![Overview chart of fuel consumption emissions](https://klappir-static.s3.amazonaws.com/img/learn/Fuel-Overview.png)
 
 This is a great tool for keeping track of how your goals for reducing your footprint are going and spot opportunities for improvement.
 
 Choose the date range you want to look at
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsDateRange.png)
+![date range selection](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsDateRange.png)
 
 and either view all assets or select asset type.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsAssetType.png)
+![aseet types selection](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsAssetType.png)
 
-You can also break your assets into groups (e.g. by location or organisational structure)
+You can also sort your assets into groups (e.g. by location or organisational structure)
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsAssetGroups.png)
+![asset groups selection](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsAssetGroups.png)
 
 and view individual assets, such as specific vehicles.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsAllAssets.png)
+![assets selection](https://klappir-static.s3.amazonaws.com/img/learn/FuelAnalyticsAllAssets.png)
 
 The fun, however, is in customising what is displayed on the Overview and the deep-diving analysis to discover how to decrease emisssions quickly.
 
 First of all, you can choose what is shown on the bar chart
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelStack.png)
+![Bar chart filters](https://klappir-static.s3.amazonaws.com/img/learn/FuelStack.png)
 
 and you can select both the x value
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelXvalue.png)
+![chart x value selection](https://klappir-static.s3.amazonaws.com/img/learn/FuelXvalue.png)
 
 and the y value.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelYvalue.png)
+![chart y value selection](https://klappir-static.s3.amazonaws.com/img/learn/FuelYvalue.png)
 
 To give an example, this is how the fuel data is displayed when stacked by asset and with x value as months and the y value as carbon equivalents in kg.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelBarChartExample.png)
+![Fuel consumption chart by assets](https://klappir-static.s3.amazonaws.com/img/learn/FuelBarChartExample.png)
 
 Another example: Here you have an overview which shows the type and amount of both diesel and petrol you are buying from different fuel suppliers.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/FuelBarChartExample2.png)
+![Overview chart comparing data from fuel suppliers](https://klappir-static.s3.amazonaws.com/img/learn/FuelBarChartExample2.png)
 
 Experiment with these feature as much as you like and ask our service team for assistance if you need it. We're here to help!
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/tolva_med_vodva_MINNI.png)
+![Cartoon of computer with muscular arms](https://klappir-static.s3.amazonaws.com/img/learn/tolva_med_vodva_MINNI.png)
 
 ### Summary
 
 View your fuel intensity for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
 
-(image Fuel-summary)
+![Fuel Summary chart](https://klappir-static.s3.amazonaws.com/img/learn/Fuel-Summary.png)
 
 ### Transactions
 
 The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
 
-(image Fuel-transactions)
+![Fuel transactions by asset list](https://klappir-static.s3.amazonaws.com/img/learn/Fuel-Transactions.png)
 
 
 ## Electricity
@@ -120,9 +120,7 @@ Next you have an Overview of your total electricity consumption and you can deep
 
 The X Value and Y Value are the filters used to compare your asset consumption and the emissions released in tCO₂e.
 
-(image Fule-Overview)
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Electricity.59.png)
+![Electricity Overview charts](https://klappir-static.s3.amazonaws.com/img/learn/Electricity-Overview.png)
 
 Here is where you can delve deeper into the electricity data.
 
@@ -148,21 +146,21 @@ The analytics tools allow you to compare the energy consumption in different wor
 
 ### Summary
 
-View your electricity intensity for individual years, single months or yearly quarters.  
+View your electricity intensity for individual years or yearly quarters. This is a great place for keeping track of how your goals for reducing your footprint are going and helps you spot opportunities for improvement.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityDetails.png)
-
-This is a great place for keeping track of how your goals for reducing your footprint are going and helps you spot opportunities for improvement.
+![Electricity Summary chart](https://klappir-static.s3.amazonaws.com/img/learn/Electricity-Summary.png)
 
 ### Transactions
 
 The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
 
+![Electricity Transactions list](https://klappir-static.s3.amazonaws.com/img/learn/Electricity-Transactions.png)
+
 ## Waste
 
 Our customers have cut their operational costs by large amounts simply by getting serious about sorting their waste. You can list as many waste types as you need in our system.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Karl_med_rusl_minni.png)
+![cartoon of man holding stinky garbage bag](https://klappir-static.s3.amazonaws.com/img/learn/Karl_med_rusl_minni.png)
 
 ### Overview
 
@@ -170,9 +168,7 @@ The first tab view in your electricity consumption is the Overview and here you 
 
 The X Value and Y Value are the filters used to compare your asset consumption and the emissions released tCO₂e.
 
-(image Fule-Overview)
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteAnalytics1.png)
+![Waste Overview charts and graphs](https://klappir-static.s3.amazonaws.com/img/learn/Waste-Overview.png)
 
 Choose the date range you want to look at
 
@@ -208,30 +204,26 @@ Finally, you can choose which service providers.
 
 At the bottom of the waste analytics page you can view in-depth statistics on your waste generation.
 
-Here for three locations:
+Here for two locations:
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteThreeLocations2.png)
-
-Here for all locations:
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteAnalytics2.png)
+![Waste Overview colorful pie charts](https://klappir-static.s3.amazonaws.com/img/learn/Waste-Overview-2.Asset.locations.png)
 
 ### Summary
 
-View your waste generation for individual years, single months or yearly quarters.  
+View your waste generation for individual years or yearly quarters. This is where you keep track of how your goals for reducing your footprint are going and helps you spot opportunities for better sorting your waste as well as reducing it.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/WasteDetails.png)
+![Waste Summary bar graph](https://klappir-static.s3.amazonaws.com/img/learn/Waste-Summary.png)
 
-This is where you keep track of how your goals for reducing your footprint are going and helps you spot opportunities for better sorting your waste as well as reducing it.
 
 ### Transactions
 
 The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
 
+![Waste transactions list](https://klappir-static.s3.amazonaws.com/img/learn/Waste-Transactions.png)
 
 ## Hot Water
 
-View your hot water consumption in either cubic meters or kWh.
+Hot water consumption data is not common unless you are using geothermal energy to heat your buildings and you can view in either cubic meters or kWh.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/HotWater.28.png)
 
