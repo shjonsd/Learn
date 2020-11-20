@@ -122,8 +122,6 @@ Next you have an Overview of your total electricity consumption and you can deep
 
 Here is where you can delve deeper into the electricity data.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityAnalytics.png)
-
 Choose the date range you want to look at
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityDateRange.png)
@@ -219,85 +217,111 @@ The third tab displays the Transactions data. Here you can review all the transa
 
 ![Waste transactions list](https://klappir-static.s3.amazonaws.com/img/learn/Waste-Transactions.png)
 
+
+
 ## Hot Water
 
-Hot water consumption data is not common unless you are using geothermal energy to heat your buildings and you can view in either cubic meters or kWh.
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/HotWater.28.png)
+Hot Water consumption data is not common unless you are using geothermal energy to heat your buildings.
 
 ### Overview
 
-The first tab view in your Hot water consumption is the Overview and here you can deep dive into the fuel data and customise what is displayed on the Overview. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
+The first tab view in your Hot Water consumption is the Overview and here you can deep dive into the fuel data and customise what is displayed on the Overview. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
 
-The X Value and Y Value are the filters used to compare your asset consumption and the emissions released tCO₂e.
+![Hot Water Overview charts and graphs](https://klappir-static.s3.amazonaws.com/img/learn/HotWater-Overview.png)
 
-(image Fule-Overview)
+Choose the date range you want to review the data from.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/HotWaterAnalytics.png)
+![Date Range filter](https://klappir-static.s3.amazonaws.com/img/learn/Insights-date.range.png)
+
+and select the unit of measure for displaying the water consumption. You can view it in cubic meters (m3), liters (L), or use the auto-calculation into kilograms of carbon equivalents (kgCO2e) or tonnes of carbon equivalents (tCO2e).
+
+![Unit of measure drop-down list](https://klappir-static.s3.amazonaws.com/img/learn/HotWater-Unit.measurement.png)
+
+You can also sort the data by selecting asset groups,
+
+![Hot Water Asset Groups filter drop-down list](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityAssetGroups.png)
+
+or review by individual assets for comparison.
+
+![Hot Water Assets filter](https://klappir-static.s3.amazonaws.com/img/learn/Hot.Water-Assets.filter.png)
+
+Insights allows you to compare the water consumption in different workstations and facilities or compare your water consumption over different monthts, quarters and years, in order to discover opportunities for improvements.
+
 
 ### Summary
 
 View your Hot water consumption for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
 
-(image HotWater-summary)
+![Hot Water Summary chart](https://klappir-static.s3.amazonaws.com/img/learn/HotWater-Summary.png)
 
 ### Transactions
 
 The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
 
-(image HotWater-transactions)
+![Hot Water Transactions list by Asset](https://klappir-static.s3.amazonaws.com/img/learn/HotWater-Transactions.png)
+
 
 
 ## Cold Water
 
-You can view your cold water consumption in cubic meters.
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ColdWater.43.png)
+Cold water consumption doesn't always genereate emissions, but tracking the consumption is important for the organization to discover excess waste.
 
 ### Overview
 
-The first tab view in your electricity consumption is the Overview and here you can deep dive into the fuel data and customise what is displayed on the Overview. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
+The first tab view in your Cold Water consumption is the Overview and here you can deep dive into the water consumption data and customise what is displayed on the Overview. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
 
-The X Value and Y Value are the filters used to compare your asset consumption and the emissions released tCO₂e.
+![Cold Water Overview charts and graphs](https://klappir-static.s3.amazonaws.com/img/learn/HotWater-Overview.png)
 
-(image Fule-Overview)
+Choose the date range you want to review the data from.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/ColdWaterAnalytics.png)
+![Date Range filter](https://klappir-static.s3.amazonaws.com/img/learn/Insights-date.range.png)
+
+and select the unit of measure for displaying the water consumption. You can view it in cubic meters (m3), liters (L), or use the auto-calculation into kilograms of carbon equivalents (kgCO2e) or tonnes of carbon equivalents (tCO2e).
+
+![Unit of measure drop-down list](https://klappir-static.s3.amazonaws.com/img/learn/HotWater-Unit.measurement.png)
+
+You can also sort the data by selecting asset groups,
+
+![Cold Water Asset Groups filter drop-down list](https://klappir-static.s3.amazonaws.com/img/learn/ElectricityAssetGroups.png)
+
+or review by individual assets for comparison.
+
+![Cold Water Assets filter](https://klappir-static.s3.amazonaws.com/img/learn/Hot.Water-Assets.filter.png)
+
+Insights allows you to compare the water consumption in different workstations and facilities or compare your water consumption over different monthts, quarters and years, in order to discover opportunities for improvements.
+
 
 ### Summary
 
 View your fuel intensity for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
 
-(image ColdWater-summary)
+![Cold Water Summary chart](https://klappir-static.s3.amazonaws.com/img/learn/Cold.Water-Summary.png)
 
 ### Transactions
 
 The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
 
-(image ColdWater-transactions)
+![Cold Water Transactions chart](https://klappir-static.s3.amazonaws.com/img/learn/Cold.Water-Transactions.png)
 
 
 ## Gaseous substances
 
 Here is where you have an overview of harmful gases which have been released in your operations.
 
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/GaseousSubstances.56.png)
-
-![alt text](https://klappir-static.s3.amazonaws.com/img/learn/GaseousSubstancesDetails.png)
 
 ### Overview
 
-The first tab view is the Overview of your Gaseous substances emissions. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
+The first tab view is the Overview of your Gaseous substances emissions. The Overview displays the collection of bar graphs with pie charts for analysis.
 
-The X Value and Y Value are the filters used to compare your asset consumption and the emissions released tCO₂e.
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Gaseous.Substances-Overview.png)
 
-(image Fule-Overview)
 
 ### Summary
 
 View your fuel intensity for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
 
-(image Gaseous-summary)
+![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Gaseous.Substances-Summary.png)
+
 
 ### Transactions
 
@@ -308,30 +332,33 @@ The third tab displays the Transactions data. Here you can review all the transa
 
 ## Heating
 
-Here is where you can view your heating data in kWh.
+Here is where you can view your heating data.
 
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/Heating.png)
 
 ### Overview 
 
-The first tab is the Overview of your Heating consumption used for analysis of Heating of your structures. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
+The first tab is the Overview of your Heating consumption used for analysis of Heating of your structures.
 
-The X Value and Y Value are the filters used to compare your asset consumption and the emissions released tCO₂e.
-
-(image Fule-Overview)
 ![alt text](https://klappir-static.s3.amazonaws.com/img/learn/HeatingDetails.png)
 
 ### Summary
 
 View your Heating intensity for individual years, single months or yearly quarters as a summary. The year preceded by the **+** is a drop-down of the data down to individual assets. The filters across the top allow for customized sorting of the summary data.
 
-(image Heating-summary)
+https://klappir-static.s3.amazonaws.com/img/learn/Gaseous.Substances-Summary.png
 
 ### Transactions
 
 The third tab displays the Transactions data. Here you can review all the transactions for the consumption category. The filters across the top allow for customized sorting of the summary data. The data can be downloaded directly from here if desired. Use the download icon on the right side to execute.
 
-(image Heating-transactions)
+
+
+---
+menu: EnviroMaster
+route: /enviromaster_dashboard
+name: Documents
+---
 
 # Documents
 
