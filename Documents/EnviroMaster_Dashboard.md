@@ -53,11 +53,11 @@ Each of these has a number of filters available for reviewing cumulative data fo
 
 The first tab view in your fuel consumption is the Overview and here you can deep dive into the fuel data and customise what is displayed on the Overview. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
 
-The X Value and Y Value are the filters used to compare your asset consumption and the emissions released CO₂ equivalents, in tonnes.
-
 ![Overview chart of fuel consumption emissions](https://klappir-static.s3.amazonaws.com/img/learn/Fuel-Overview.png)
 
 This is a great tool for keeping track of how your goals for reducing your footprint are going and spot opportunities for improvement.
+
+![Overview of fuel consumption graphs](https://klappir-static.s3.amazonaws.com/img/learn/Fuel-Overview-Supplier.png)
 
 Choose the date range you want to look at
 
@@ -77,7 +77,7 @@ and view individual assets, such as specific vehicles.
 
 The fun, however, is in customising what is displayed on the Overview and the deep-diving analysis to discover how to decrease emisssions quickly.
 
-First of all, you can choose what is shown on the bar chart
+First of all, you can choose what is shown on the bar chart. The X Value and Y Value are the filters used to compare your asset consumption and the emissions released CO₂ equivalents, in tonnes.
 
 ![Bar chart filters](https://klappir-static.s3.amazonaws.com/img/learn/FuelStack.png)
 
@@ -117,8 +117,6 @@ The third tab displays the Transactions data. Here you can review all the transa
 ## Electricity
 
 Next you have an Overview of your total electricity consumption and you can deep dive into the electricity usage data. The Overview displays the collection of bar graphs with pie charts for analysis. For convenience, you can select Date Range, Asset Types, Asset Groups, and Suppliers for comparison. You can also view your cumulative emissions throughout all the years you have data for.
-
-The X Value and Y Value are the filters used to compare your asset consumption and the emissions released in tCO₂e.
 
 ![Electricity Overview charts](https://klappir-static.s3.amazonaws.com/img/learn/Electricity-Overview.png)
 
