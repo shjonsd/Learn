@@ -1,7 +1,6 @@
 ---
 menu: EnviroMaster
-route: /enviromaster_dashboard
-name: Documents
+route: /enviromaster_documents
 ---
 
 # Documents
