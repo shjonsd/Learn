@@ -4,9 +4,9 @@ route: /enviromaster_dashboard
 name: Insights
 ---
 
-# The EnviroMaster Module
+# EnviroMaster
 
-The Klappir EnviroMaster is a SaaS solution (module) on the Core.Klappir.io platform designed to help you create strong infrastructure for smart environmental management and sustainability practices. By streaming or importing operational consumption data into the centralized database of the platform you create a more reliable and detailed overview of your operational footprint. The Dashboard, graphs and charts provide detailed insight and discovery you can then analyse for increasing your operational efficiency by reducing waste and excess consumption.
+The Klappir EnviroMaster is a SaaS solution (module) on the core.klappir.io platform designed to help you create strong infrastructure for smart environmental management and sustainability practices. By streaming or importing operational consumption data into the centralized database of the platform you create a more reliable and detailed overview of your operational footprint. The Dashboard, graphs and charts provide detailed insight and discovery you can then analyse for increasing your operational efficiency by reducing waste and excess consumption.
 
 Streaming transactional consumption data into the Klappir Platform is the best means to ensure consistency, accuracy, and transparency in GHG accounting. By connecting to smart meters and sensors, as well as suppliers and service providers through APIs, user errors are reduced and costs of compiling the emissions inventory is greatly reduced.
 
